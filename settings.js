@@ -26,7 +26,7 @@ global.wm = "David Cyril Tech."
 global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['!']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
